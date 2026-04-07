@@ -1,7 +1,7 @@
 # 🍯 HoneyGain_BOT_AUTOCLAIM 🐝
 
-[![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/HoneyGain_BOT_AUTOCLAIM?style=social)](https://github.com/TU_USUARIO/HoneyGain_BOT_AUTOCLAIM)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TU_USUARIO/HoneyGain_BOT_AUTOCLAIM)
+[![GitHub stars](https://img.shields.io/github/stars/GESGames/HoneyGain_BOT_AUTOCLAIM?style=social)](https://github.com/GESGames/HoneyGain_BOT_AUTOCLAIM)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GESGames/HoneyGain_BOT_AUTOCLAIM)
 
 Maximize your passive income with this **Honeygain Auto-Claim Bot**. This script automatically opens your **Lucky Pot** every day using GitHub Actions. 100% Cloud-based, 100% Free.
 
@@ -10,7 +10,7 @@ Maximize your passive income with this **Honeygain Auto-Claim Bot**. This script
 ## 🎁 Get a $5 FREE Bonus Now!
 If you are new to Honeygain, sign up using the link below to get an instant **$5 USD STARTING BONUS**:
 
-🚀 **[REGISTER HERE TO CLAIM YOUR $5 BONUS](TU_LINK_DE_REFERIDO_AQUÍ)**
+🚀 **[REGISTER HERE TO CLAIM YOUR $5 BONUS](https://join.honeygain.com/CONKIDC590)**
 
 ---
 
