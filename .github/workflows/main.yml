@@ -1,28 +1,21 @@
 name: HoneyGain_BOT_AUTOCLAIM
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Corre cada día a medianoche
-  workflow_dispatch: # Permite correrlo manualmente para probar
+  workflow_dispatch:
 
 jobs:
-  build:
+  test-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # Versión estándar de Python
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Run Bot
+          python-version: '3.9'
+      - name: Install Requests
+        run: pip install requests
+      - name: Exec Bot
         env:
           HG_EMAIL: ${{ secrets.HG_EMAIL }}
           HG_PASSWORD: ${{ secrets.HG_PASSWORD }}
