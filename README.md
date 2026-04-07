@@ -10,7 +10,7 @@ Maximize your passive income with this **Honeygain Auto-Claim Bot**. This script
 ## 🎁 Get a $5 FREE Bonus Now!
 If you are new to Honeygain, sign up using the link below to get an instant **$5 USD STARTING BONUS**:
 
-🚀 **[REGISTER HERE TO CLAIM YOUR $5 BONUS]((https://join.honeygain.com/CONKIDC590))**
+🚀 **[REGISTER HERE TO CLAIM YOUR $5 BONUS]([https://join.honeygain.com/CONKIDC590])**
 
 ---
 
